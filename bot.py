@@ -14,7 +14,7 @@ from telegram.ext import (
     filters
 )
 
-BOT_TOKEN = "7962798509:AAFSZrMZmS_h967X03AH_ZzlSUjFYG6TmQM"
+BOT_TOKEN = "8335639637:AAHTscVr7KAAzNfs09Nbnr154GxpBDEO5rg"
 ADMIN_ID = 7691071175
 PANEL_API_KEY = "144db1b838d2e6f5fb04c07a12535438"
 PANEL_API_URL = "https://smmziox.store/api/v2"
