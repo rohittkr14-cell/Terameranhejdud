@@ -16,7 +16,7 @@ from telegram.ext import (
 
 BOT_TOKEN = "8335639637:AAHTscVr7KAAzNfs09Nbnr154GxpBDEO5rg"
 ADMIN_ID = 7691071175
-PANEL_API_KEY = "b995856bd13c1a539b857b8dd36e2b92"
+PANEL_API_KEY = "7b4896791ad467002b78fc143e79d19f"
 PANEL_API_URL = "https://smmziox.store/api/v2"
 UPI_ID = "zioxrohit@fam"
 PER_PAGE = 10
